@@ -8,6 +8,7 @@ Adapted from *"HTML Crash Course for Absolute Beginners"* by Traversy Media (You
 
 ## Simple Personal Wesbite
 Project Build following Scrimba's HTML & CSS Course 
+
 Source : https://scrimba.com/learn-html-and-css-c0p 
 
 ## Helpful Resources
