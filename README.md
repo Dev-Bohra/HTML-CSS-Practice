@@ -6,3 +6,5 @@ A collection of fundamental HTML tags to get familiar with HTML structure and el
 
 Adapted from *"HTML Crash Course for Absolute Beginners"* by Traversy Media (YouTube).  
 
+## Helpful Resources
+All HTML Tags : https://developer.mozilla.org/en-US/docs/Web/HTML/Element 
