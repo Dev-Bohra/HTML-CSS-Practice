@@ -1,0 +1,64 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.infobar {
+    height: 70px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #EDF2F4;
+    color: #3A506B;
+    font-weight: lighter;
+    margin: auto auto;
+    align-items: center;
+}
+
+.title {
+    color: #2b2d42;
+}
+
+.search {
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.page {
+    display: flex;
+    justify-content: space-between;
+    margin: 40px auto; 
+    max-width: 80%;
+}
+
+.left {
+    display: block;
+    margin: 0 auto;
+}
+
+.right {
+    align-items: center;
+    display: block;
+    max-width: 50%;
+}
+
+.right h2, .right p {
+    margin-bottom: 15px;
+}
+
+
+.buy { 
+    background-color: #EDF2F4;
+    color: #3A506B;
+    border: none;
+    padding: 10px 20px;
+    font-size: 25px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px; 
+    align-self: center;
+}
+
+
+.buy:hover {
+    background-color: #3A506B;
+    color: whitesmoke;    ;
+}
