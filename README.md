@@ -16,6 +16,8 @@ Deploy at Netlify or any other service provider just to get the hang of it.
 ### Simple Newsletter Subscription (From Scratch)
 The styling was inspired by the Daily Dribble Project in which the learners had to create the webpage from scratch using the Design Template provided.
 
+The site - https://earnest-granita-e7892c.netlify.app/ 
+
 ### Business Card
 Started Code & Follow Along provided by Scrimba. Ideal to play with the color palette. Check out the colour palette generator given in the resources section.
 
