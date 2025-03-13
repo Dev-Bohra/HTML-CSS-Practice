@@ -16,10 +16,16 @@ Deploy at Netlify or any other service provider just to get the hang of it.
 ### Simple Newsletter Subscription (From Scratch)
 The styling was inspired by the Daily Dribble Project in which the learners had to create the webpage from scratch using the Design Template provided.
 
-The site - https://earnest-granita-e7892c.netlify.app/ 
+The Demo - https://earnest-granita-e7892c.netlify.app/ 
 
 ### Business Card
 Started Code & Follow Along provided by Scrimba. Ideal to play with the color palette. Check out the colour palette generator given in the resources section.
+
+### Bookstore Page (From Scratch)
+This was supposed to be a solo project, I was inspired by the UI for goodreads and decided to try to emulate it with albeit slightly different colours.
+Also Utilized the hover pseudoclass in CSS to change the visuals of the 'Purchase' Button. 
+
+The Demo - https://ubiquitous-snickerdoodle-3be71f.netlify.app/
 
 
 ## Helpful Resources
