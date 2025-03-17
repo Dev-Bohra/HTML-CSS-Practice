@@ -27,6 +27,10 @@ Also Utilized the hover pseudoclass in CSS to change the visuals of the 'Purchas
 
 The Demo - https://ubiquitous-snickerdoodle-3be71f.netlify.app/
 
+### Esports Recruitment Site (From Scratch)
+This project was inspired by the solo challenge to build a simple web agency website with a contact us button. I decided to innovate it and redirect the user to fill a form with all their details. 
+
+The Demo - https://wonderful-kleicha-22d6cc.netlify.app/ 
 
 ## Helpful Resources
 HTML Tags : https://developer.mozilla.org/en-US/docs/Web/HTML/Element 
