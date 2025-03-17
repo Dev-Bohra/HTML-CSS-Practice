@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="form.css">
+    </head>
+    <body>
+        <form>
+            <label for="codename">Codename</label>
+            <input type="text" id="codename" name="Codename" placeholder="Enter Your Name">
+            
+            <label for="frequency">Frequency</label>
+            <input type="email" id="frequency" name="Frequency" placeholder="Enter Your Email">
+            
+            <label for="intel">Intel File (Gameplay Achievements)</label>
+            <input type="file" id="intel" name="Intel">
+            
+            <p>Area of Operations</p>
+            <div class="radio-group">
+                <label for="NA">
+                    <input type="radio" id="NA" name="server" value="North America">
+                    North America
+                </label><br>
+                <label for="AUS">
+                    <input type="radio" id="AUS" name="server" value="Oceania">
+                    Oceania Server
+                </label><br>
+                <label for="ME">
+                    <input type="radio" id="ME" name="server" value="Middle East">
+                    Middle East Server
+                </label>
+            </div>
+
+            <button type="submit">Accept Mission</button>
+        </form>
+    </body>
+</html>

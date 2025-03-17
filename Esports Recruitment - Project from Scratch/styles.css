@@ -1,0 +1,39 @@
+body{
+    display: block;
+    background-image: url("tuxpi.com.1742184118.jpg");
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.hero{
+    margin: 12% auto 0px 0px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #454B1B;
+}
+
+h1{
+    font-size: 60px;
+}
+
+h2{
+    font-size: 35px;
+}
+
+button{
+    display: block;
+    background-color: #454B1B;
+    color: antiquewhite;
+    margin-left: 16%;
+    border-radius: 3px;
+    font-size: 30px;
+    padding: 5px 10px 5px 10px;
+    text-decoration: none;
+}
+
+button:hover{
+    background-color: antiquewhite;
+    color:#454B1B
+    
+}
