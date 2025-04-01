@@ -1,5 +1,5 @@
-# Frontend & UI/UX Design Journey
-Documenting My Learning Journey.
+# HTML & CSS Practice
+Documenting My Learning Journey. Simply getting the hang of HTML & CSS. 
 
 ## Basics.html  
 A collection of fundamental HTML tags to get familiar with HTML structure and elements.  
