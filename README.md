@@ -32,6 +32,13 @@ This project was inspired by the solo challenge to build a simple web agency web
 
 The Demo - https://wonderful-kleicha-22d6cc.netlify.app/ 
 
+## Responsive Web Design by Free Code Camp 
+The entire course : https://www.freecodecamp.org/learn/2022/responsive-web-design/
+
+### SurveyForm.html 
+First certification project to demonstrate knowledge of some HTML Tags 
+More details : https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form
+
 ## Helpful Resources
 HTML Tags : https://developer.mozilla.org/en-US/docs/Web/HTML/Element 
 
