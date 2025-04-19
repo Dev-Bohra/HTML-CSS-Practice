@@ -43,6 +43,8 @@ More details : https://www.freecodecamp.org/learn/2022/responsive-web-design/bui
 ### Tribute Page
 Second Certification project to demonstrate basic knowledge of HTML & CSS
 
+The Demo - https://subtle-druid-27d3e0.netlify.app/
+
 More details : https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page 
 
 
