@@ -40,6 +40,13 @@ First certification project to demonstrate knowledge of some HTML Tags
 
 More details : https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form
 
+### Tribute Page
+Second Certification project to demonstrate basic knowledge of HTML & CSS
+
+More details : https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page 
+
+
+
 ## Helpful Resources
 HTML Tags : https://developer.mozilla.org/en-US/docs/Web/HTML/Element 
 
